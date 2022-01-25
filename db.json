@@ -1,0 +1,73 @@
+{
+    "categorias": [
+      {
+        "id": "WEB-SITE",
+        "nome": "WEB-SITE",
+        "subcategorias": ["react", "site"]
+      },
+      {
+        "id": "APP-MOBILLE",
+        "nome": "APP-MOBILLE",
+        "subcategorias": ["native", "mobille"]
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "Um guia para usar React JS",
+        "metadescription": "Aqui vou apresentar um guia prático sobre React JS,",
+        "body": "Mas antes de colocar a mão na massa e partir para o código em qualquer framework ou biblioteca precisamos saber o que é, o que ele veio resolver, como ele funciona, seus benefícios, o que precisamos para começar a “codar” e etc.  ",
+        "categoria": "WEB-SITE",
+        "subcategoria": "site"
+      },
+      {
+        "id": 2,
+        "title": "Fácil de Usar",
+        "metadescription": "Como um desenvolvedor de JavaScript, vai ser fácil para você entender o básico do React.",
+        "body": "O React é uma biblioteca de código aberto para interfaces gráficas (GUI) que tem como foco uma só coisa: tornar a experiência do usuário com a interface mais eficiente. Ela pode ser categorizada como o “V” no padrão MVC (Model-View-Controller).",
+        "categoria": "WEB-SITE",
+        "subcategoria": "site"
+      },
+      {
+        "id": 3,
+        "title": "Por Que Usar React?",
+        "metadescription": "Abaixo estão algumas das razões para usar o React.",
+        "body": "O React tem sido usado por grandes companhias ao redor do mundo. Algumas delas: Netflix, Airbnb, American Express, Facebook, WhatsApp, eBay e Instagram. Essa é a prova de que a ferramenta tem um número de vantagens que não têm nem comparação nos seus competidores.",
+        "categoria": "WEB-SITE",
+        "subcategoria": "site"
+      },
+      {
+        "id": 4,
+        "title": "Como funciona o React?",
+        "metadescription": "Em outras palavras, podemos imaginar que o React divide uma tela em diversos componentes para, então, trabalhar sobre eles de maneira individual.",
+        "body": "Os componentes são utilizados para reaproveitamento de código e padronização de interface. Isso torna o React uma tecnologia muito flexível para a solução de problemas e para a construção de interfaces reutilizáveis, uma vez que cada um destes componentes pode ser manipulado de maneira distinta.",
+        "categoria": "APP-MOBILLE",
+        "subcategoria": "web"
+      },
+      {
+        "id": 5,
+        "title": "Entre estas ferramentas estão as bibliotecas e os frameworks.",
+        "metadescription": "Descubra o que é o React, como ele funciona, para que é utilizado e saiba como aprender a utilizar esta tecnologia.",
+        "body": "Enquanto uma biblioteca pode ser entendida como um conjunto de funções organizadas que podem ser utilizadas para a construção de uma aplicação, os frameworks são uma espécie de base padronizada para o desenvolvimento delas.",
+        "categoria": "APP-MOBILLE",
+        "subcategoria": "web"
+      },
+      {
+        "id": 6,
+        "title": "O que é React?",
+        "metadescription": "React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI (user interface).",
+        "body": "Criado em 2011 pelo time do Facebook, o React surgiu com o objetivo de otimizar a atualização e a sincronização de atividades simultâneas no feed de notícias da rede social, entre eles chat, status, listagem de contatos e outros.",
+        "categoria": "APP-MOBILLE",
+        "subcategoria": "web"
+      },
+      {
+        "id": 7,
+        "title": "Tutorial de ReactJS com Node.js - Parte 2",
+        "metadescription": "Aprendemos o que é e para que serve o ReactJS e sua relação com SPAs (Single Page Applications) e aprendemos a criar, entender e modificar ligeiramente um projeto inicial nesta fantástica tecnologia.",
+        "body": "Uma das coisas mais incríveis e talvez mais importantes que você deve saber sobre React é a como construir componentes. A componentização é o coração do React, permitindo atualizações parciais da página, reutilização de código e maior produtividade na manutenção do código de front-end. Com eles, podemos quebrar grandes e complexas aplicações em pequenos pedaços simples..",
+        "categoria": "APP-MOBILLE",
+        "subcategoria": "web"
+      }
+    ]
+  }
+  
